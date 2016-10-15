@@ -1,0 +1,60 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+G:\01  NTFS  文件盘     (82371个文件)  51(GB) 0(GB)\2016比赛\stm32\RM2016步兵车开源代码\RM2016_INFANTRY_OPEN_SOURCEV.1.6.4\RM2016 Infantry.uvproj
+Project File Date:  10/13/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling bsp.c...
+compiling ControlTask.c...
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(20): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+APP\ControlTask.c(21): error:  #29: expected an expression
+compiling RemoteTask.c...
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(12): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(13): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+APP\RemoteTask.c(14): error:  #29: expected an expression
+".\Outputs\RM2016_Infantry.axf" - 45 Errors, 0 Warning(s).
+Target not created
